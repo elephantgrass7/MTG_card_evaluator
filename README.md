@@ -1,1 +1,1 @@
-deep Learning to rate standard rotation mtg cards
+deep neural networks to rate standard rotation mtg cards
